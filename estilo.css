@@ -1,0 +1,24 @@
+button {
+    width: 60px;
+    height: 60px;
+    font-size: 14px;
+    background: #0080f9ad;
+    border: 1px solid blue;
+    color: white;
+}
+
+input {
+    width: 190px;
+    height: 50px;
+    font-size: 26px;
+    text-align: right;
+    padding-right: 15px;
+}
+
+div {
+    margin-left: 90px;
+}
+
+.resetar {
+    background: rgb(65, 65, 107);
+}
